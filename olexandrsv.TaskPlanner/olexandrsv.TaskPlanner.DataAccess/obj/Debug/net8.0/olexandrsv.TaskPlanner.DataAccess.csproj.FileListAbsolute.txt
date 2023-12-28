@@ -1,0 +1,17 @@
+D:\IT\NET\olexandrsv.TaskPlanner\olexandrsv.TaskPlanner.DataAccess\bin\Debug\net8.0\olexandrsv.TaskPlanner.DataAccess.deps.json
+D:\IT\NET\olexandrsv.TaskPlanner\olexandrsv.TaskPlanner.DataAccess\bin\Debug\net8.0\olexandrsv.TaskPlanner.DataAccess.dll
+D:\IT\NET\olexandrsv.TaskPlanner\olexandrsv.TaskPlanner.DataAccess\bin\Debug\net8.0\olexandrsv.TaskPlanner.DataAccess.pdb
+D:\IT\NET\olexandrsv.TaskPlanner\olexandrsv.TaskPlanner.DataAccess\bin\Debug\net8.0\olexandrsv.TaskPlanner.DataAccess.Abstractions.dll
+D:\IT\NET\olexandrsv.TaskPlanner\olexandrsv.TaskPlanner.DataAccess\bin\Debug\net8.0\olexandrsv.TaskPlanner.Domain.Models.dll
+D:\IT\NET\olexandrsv.TaskPlanner\olexandrsv.TaskPlanner.DataAccess\bin\Debug\net8.0\olexandrsv.TaskPlanner.DataAccess.Abstractions.pdb
+D:\IT\NET\olexandrsv.TaskPlanner\olexandrsv.TaskPlanner.DataAccess\bin\Debug\net8.0\olexandrsv.TaskPlanner.Domain.Models.pdb
+D:\IT\NET\olexandrsv.TaskPlanner\olexandrsv.TaskPlanner.DataAccess\obj\Debug\net8.0\olexandrsv.TaskPlanner.DataAccess.csproj.AssemblyReference.cache
+D:\IT\NET\olexandrsv.TaskPlanner\olexandrsv.TaskPlanner.DataAccess\obj\Debug\net8.0\olexandrsv.TaskPlanner.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\NET\olexandrsv.TaskPlanner\olexandrsv.TaskPlanner.DataAccess\obj\Debug\net8.0\olexandrsv.TaskPlanner.DataAccess.AssemblyInfoInputs.cache
+D:\IT\NET\olexandrsv.TaskPlanner\olexandrsv.TaskPlanner.DataAccess\obj\Debug\net8.0\olexandrsv.TaskPlanner.DataAccess.AssemblyInfo.cs
+D:\IT\NET\olexandrsv.TaskPlanner\olexandrsv.TaskPlanner.DataAccess\obj\Debug\net8.0\olexandrsv.TaskPlanner.DataAccess.csproj.CoreCompileInputs.cache
+D:\IT\NET\olexandrsv.TaskPlanner\olexandrsv.TaskPlanner.DataAccess\obj\Debug\net8.0\olexandrsv.TaskPlanner.DataAccess.csproj.CopyComplete
+D:\IT\NET\olexandrsv.TaskPlanner\olexandrsv.TaskPlanner.DataAccess\obj\Debug\net8.0\olexandrsv.TaskPlanner.DataAccess.dll
+D:\IT\NET\olexandrsv.TaskPlanner\olexandrsv.TaskPlanner.DataAccess\obj\Debug\net8.0\refint\olexandrsv.TaskPlanner.DataAccess.dll
+D:\IT\NET\olexandrsv.TaskPlanner\olexandrsv.TaskPlanner.DataAccess\obj\Debug\net8.0\olexandrsv.TaskPlanner.DataAccess.pdb
+D:\IT\NET\olexandrsv.TaskPlanner\olexandrsv.TaskPlanner.DataAccess\obj\Debug\net8.0\ref\olexandrsv.TaskPlanner.DataAccess.dll

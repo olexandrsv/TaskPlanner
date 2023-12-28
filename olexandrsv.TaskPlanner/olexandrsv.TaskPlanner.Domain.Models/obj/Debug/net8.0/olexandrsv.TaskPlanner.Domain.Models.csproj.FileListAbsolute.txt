@@ -1,0 +1,11 @@
+D:\IT\NET\olexandrsv.TaskPlanner\olexandrsv.TaskPlanner.Domain.Models\bin\Debug\net8.0\olexandrsv.TaskPlanner.Domain.Models.deps.json
+D:\IT\NET\olexandrsv.TaskPlanner\olexandrsv.TaskPlanner.Domain.Models\bin\Debug\net8.0\olexandrsv.TaskPlanner.Domain.Models.dll
+D:\IT\NET\olexandrsv.TaskPlanner\olexandrsv.TaskPlanner.Domain.Models\bin\Debug\net8.0\olexandrsv.TaskPlanner.Domain.Models.pdb
+D:\IT\NET\olexandrsv.TaskPlanner\olexandrsv.TaskPlanner.Domain.Models\obj\Debug\net8.0\olexandrsv.TaskPlanner.Domain.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\NET\olexandrsv.TaskPlanner\olexandrsv.TaskPlanner.Domain.Models\obj\Debug\net8.0\olexandrsv.TaskPlanner.Domain.Models.AssemblyInfoInputs.cache
+D:\IT\NET\olexandrsv.TaskPlanner\olexandrsv.TaskPlanner.Domain.Models\obj\Debug\net8.0\olexandrsv.TaskPlanner.Domain.Models.AssemblyInfo.cs
+D:\IT\NET\olexandrsv.TaskPlanner\olexandrsv.TaskPlanner.Domain.Models\obj\Debug\net8.0\olexandrsv.TaskPlanner.Domain.Models.csproj.CoreCompileInputs.cache
+D:\IT\NET\olexandrsv.TaskPlanner\olexandrsv.TaskPlanner.Domain.Models\obj\Debug\net8.0\olexandrsv.TaskPlanner.Domain.Models.dll
+D:\IT\NET\olexandrsv.TaskPlanner\olexandrsv.TaskPlanner.Domain.Models\obj\Debug\net8.0\refint\olexandrsv.TaskPlanner.Domain.Models.dll
+D:\IT\NET\olexandrsv.TaskPlanner\olexandrsv.TaskPlanner.Domain.Models\obj\Debug\net8.0\olexandrsv.TaskPlanner.Domain.Models.pdb
+D:\IT\NET\olexandrsv.TaskPlanner\olexandrsv.TaskPlanner.Domain.Models\obj\Debug\net8.0\ref\olexandrsv.TaskPlanner.Domain.Models.dll

@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "olexandersv.TaskPlanner", "olexandersv.TaskPlanner\olexandersv.TaskPlanner.csproj", "{29C717FB-5550-4A4A-879C-2998AC0B1B44}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "olexandrsv.TaskPlanner.Domain.Models", "olexandrsv.TaskPlanner.Domain.Models\olexandrsv.TaskPlanner.Domain.Models.csproj", "{B72C4BC3-02A5-4F88-8C4E-BB501C34FB7A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "olexandrsv.TaskPlanner.Domain.Logic", "olexandrsv.TaskPlanner.Domain.Logic\olexandrsv.TaskPlanner.Domain.Logic.csproj", "{B3B63A38-E03D-4296-9A93-A945E6A326F7}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B72C4BC3-02A5-4F88-8C4E-BB501C34FB7A} = {B72C4BC3-02A5-4F88-8C4E-BB501C34FB7A}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "olexandrsv.TaskPlanner.DataAccess.Abstractions", "olexandrsv.TaskPlanner.DataAccess.Abstractions\olexandrsv.TaskPlanner.DataAccess.Abstractions.csproj", "{6A2D7118-D1EA-4C17-8674-0C9AA47A62D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "olexandrsv.TaskPlanner.DataAccess", "olexandrsv.TaskPlanner.DataAccess\olexandrsv.TaskPlanner.DataAccess.csproj", "{202AA348-7B54-4012-9461-296FF2A0F63D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "olexandrsv.TaskPlanner.Domain.Logic.Tests", "olexandrsv.TaskPlanner.Domain.Logic.Tests\olexandrsv.TaskPlanner.Domain.Logic.Tests.csproj", "{DC55DA14-34B1-4ED8-B6E7-8FD6CED48BB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29C717FB-5550-4A4A-879C-2998AC0B1B44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29C717FB-5550-4A4A-879C-2998AC0B1B44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29C717FB-5550-4A4A-879C-2998AC0B1B44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29C717FB-5550-4A4A-879C-2998AC0B1B44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B72C4BC3-02A5-4F88-8C4E-BB501C34FB7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B72C4BC3-02A5-4F88-8C4E-BB501C34FB7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B72C4BC3-02A5-4F88-8C4E-BB501C34FB7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B72C4BC3-02A5-4F88-8C4E-BB501C34FB7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3B63A38-E03D-4296-9A93-A945E6A326F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3B63A38-E03D-4296-9A93-A945E6A326F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3B63A38-E03D-4296-9A93-A945E6A326F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3B63A38-E03D-4296-9A93-A945E6A326F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A2D7118-D1EA-4C17-8674-0C9AA47A62D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A2D7118-D1EA-4C17-8674-0C9AA47A62D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A2D7118-D1EA-4C17-8674-0C9AA47A62D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A2D7118-D1EA-4C17-8674-0C9AA47A62D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{202AA348-7B54-4012-9461-296FF2A0F63D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{202AA348-7B54-4012-9461-296FF2A0F63D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{202AA348-7B54-4012-9461-296FF2A0F63D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{202AA348-7B54-4012-9461-296FF2A0F63D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC55DA14-34B1-4ED8-B6E7-8FD6CED48BB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC55DA14-34B1-4ED8-B6E7-8FD6CED48BB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC55DA14-34B1-4ED8-B6E7-8FD6CED48BB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC55DA14-34B1-4ED8-B6E7-8FD6CED48BB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09770A22-FC83-4DE8-A785-6B88DB599885}
+	EndGlobalSection
+EndGlobal

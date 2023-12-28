@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\olexandrsv.TaskPlanner.DataAccess.Abstractions\olexandrsv.TaskPlanner.DataAccess.Abstractions.csproj" />
+    <ProjectReference Include="..\olexandrsv.TaskPlanner.DataAccess\olexandrsv.TaskPlanner.DataAccess.csproj" />
+    <ProjectReference Include="..\olexandrsv.TaskPlanner.Domain.Models\olexandrsv.TaskPlanner.Domain.Models.csproj" />
+  </ItemGroup>
+
+</Project>

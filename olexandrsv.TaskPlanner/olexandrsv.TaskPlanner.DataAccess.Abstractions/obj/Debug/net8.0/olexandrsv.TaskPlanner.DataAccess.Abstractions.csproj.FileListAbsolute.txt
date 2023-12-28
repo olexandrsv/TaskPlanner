@@ -1,0 +1,15 @@
+D:\IT\NET\olexandrsv.TaskPlanner\olexandrsv.TaskPlanner.DataAccess.Abstractions\bin\Debug\net8.0\olexandrsv.TaskPlanner.DataAccess.Abstractions.deps.json
+D:\IT\NET\olexandrsv.TaskPlanner\olexandrsv.TaskPlanner.DataAccess.Abstractions\bin\Debug\net8.0\olexandrsv.TaskPlanner.DataAccess.Abstractions.dll
+D:\IT\NET\olexandrsv.TaskPlanner\olexandrsv.TaskPlanner.DataAccess.Abstractions\bin\Debug\net8.0\olexandrsv.TaskPlanner.DataAccess.Abstractions.pdb
+D:\IT\NET\olexandrsv.TaskPlanner\olexandrsv.TaskPlanner.DataAccess.Abstractions\bin\Debug\net8.0\olexandrsv.TaskPlanner.Domain.Models.dll
+D:\IT\NET\olexandrsv.TaskPlanner\olexandrsv.TaskPlanner.DataAccess.Abstractions\bin\Debug\net8.0\olexandrsv.TaskPlanner.Domain.Models.pdb
+D:\IT\NET\olexandrsv.TaskPlanner\olexandrsv.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\olexandrsv.TaskPlanner.DataAccess.Abstractions.csproj.AssemblyReference.cache
+D:\IT\NET\olexandrsv.TaskPlanner\olexandrsv.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\olexandrsv.TaskPlanner.DataAccess.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\NET\olexandrsv.TaskPlanner\olexandrsv.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\olexandrsv.TaskPlanner.DataAccess.Abstractions.AssemblyInfoInputs.cache
+D:\IT\NET\olexandrsv.TaskPlanner\olexandrsv.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\olexandrsv.TaskPlanner.DataAccess.Abstractions.AssemblyInfo.cs
+D:\IT\NET\olexandrsv.TaskPlanner\olexandrsv.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\olexandrsv.TaskPlanner.DataAccess.Abstractions.csproj.CoreCompileInputs.cache
+D:\IT\NET\olexandrsv.TaskPlanner\olexandrsv.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\olexandrsv.TaskPlanner.DataAccess.Abstractions.csproj.CopyComplete
+D:\IT\NET\olexandrsv.TaskPlanner\olexandrsv.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\olexandrsv.TaskPlanner.DataAccess.Abstractions.dll
+D:\IT\NET\olexandrsv.TaskPlanner\olexandrsv.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\refint\olexandrsv.TaskPlanner.DataAccess.Abstractions.dll
+D:\IT\NET\olexandrsv.TaskPlanner\olexandrsv.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\olexandrsv.TaskPlanner.DataAccess.Abstractions.pdb
+D:\IT\NET\olexandrsv.TaskPlanner\olexandrsv.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\ref\olexandrsv.TaskPlanner.DataAccess.Abstractions.dll

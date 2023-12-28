@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "H6WL1cLhV5G3p0OGTqfA2NhX5qjuVWmZfhaWJ8ND78aGc+esLNvTQQ5QwJ3XnUEB1TxdCpyQDHFci297K0uzkw==",
+  "success": true,
+  "projectFilePath": "D:\\IT\\NET\\olexandrsv.TaskPlanner\\olexandrsv.TaskPlanner.DataAccess\\olexandrsv.TaskPlanner.DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

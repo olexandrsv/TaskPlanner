@@ -1,0 +1,190 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\IT\\NET\\olexandrsv.TaskPlanner\\olexandrsv.TaskPlanner.DataAccess\\olexandrsv.TaskPlanner.DataAccess.csproj": {}
+  },
+  "projects": {
+    "D:\\IT\\NET\\olexandrsv.TaskPlanner\\olexandrsv.TaskPlanner.DataAccess.Abstractions\\olexandrsv.TaskPlanner.DataAccess.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\IT\\NET\\olexandrsv.TaskPlanner\\olexandrsv.TaskPlanner.DataAccess.Abstractions\\olexandrsv.TaskPlanner.DataAccess.Abstractions.csproj",
+        "projectName": "olexandrsv.TaskPlanner.DataAccess.Abstractions",
+        "projectPath": "D:\\IT\\NET\\olexandrsv.TaskPlanner\\olexandrsv.TaskPlanner.DataAccess.Abstractions\\olexandrsv.TaskPlanner.DataAccess.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\IT\\NET\\olexandrsv.TaskPlanner\\olexandrsv.TaskPlanner.DataAccess.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\IT\\NET\\olexandrsv.TaskPlanner\\olexandrsv.TaskPlanner.Domain.Models\\olexandrsv.TaskPlanner.Domain.Models.csproj": {
+                "projectPath": "D:\\IT\\NET\\olexandrsv.TaskPlanner\\olexandrsv.TaskPlanner.Domain.Models\\olexandrsv.TaskPlanner.Domain.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\IT\\NET\\olexandrsv.TaskPlanner\\olexandrsv.TaskPlanner.DataAccess\\olexandrsv.TaskPlanner.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\IT\\NET\\olexandrsv.TaskPlanner\\olexandrsv.TaskPlanner.DataAccess\\olexandrsv.TaskPlanner.DataAccess.csproj",
+        "projectName": "olexandrsv.TaskPlanner.DataAccess",
+        "projectPath": "D:\\IT\\NET\\olexandrsv.TaskPlanner\\olexandrsv.TaskPlanner.DataAccess\\olexandrsv.TaskPlanner.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\IT\\NET\\olexandrsv.TaskPlanner\\olexandrsv.TaskPlanner.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\IT\\NET\\olexandrsv.TaskPlanner\\olexandrsv.TaskPlanner.DataAccess.Abstractions\\olexandrsv.TaskPlanner.DataAccess.Abstractions.csproj": {
+                "projectPath": "D:\\IT\\NET\\olexandrsv.TaskPlanner\\olexandrsv.TaskPlanner.DataAccess.Abstractions\\olexandrsv.TaskPlanner.DataAccess.Abstractions.csproj"
+              },
+              "D:\\IT\\NET\\olexandrsv.TaskPlanner\\olexandrsv.TaskPlanner.Domain.Models\\olexandrsv.TaskPlanner.Domain.Models.csproj": {
+                "projectPath": "D:\\IT\\NET\\olexandrsv.TaskPlanner\\olexandrsv.TaskPlanner.Domain.Models\\olexandrsv.TaskPlanner.Domain.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\IT\\NET\\olexandrsv.TaskPlanner\\olexandrsv.TaskPlanner.Domain.Models\\olexandrsv.TaskPlanner.Domain.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\IT\\NET\\olexandrsv.TaskPlanner\\olexandrsv.TaskPlanner.Domain.Models\\olexandrsv.TaskPlanner.Domain.Models.csproj",
+        "projectName": "olexandrsv.TaskPlanner.Domain.Models",
+        "projectPath": "D:\\IT\\NET\\olexandrsv.TaskPlanner\\olexandrsv.TaskPlanner.Domain.Models\\olexandrsv.TaskPlanner.Domain.Models.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\IT\\NET\\olexandrsv.TaskPlanner\\olexandrsv.TaskPlanner.Domain.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
